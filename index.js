@@ -72,7 +72,7 @@ function printB(number) {
 // ANSWER: O(n)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n)
+// ANSWER: O(1)
 
 
 
@@ -88,7 +88,7 @@ function printC(num, arr) {
 // ANSWER: O(n^2)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n^2)
+// ANSWER: O(n)
 
 
 
@@ -104,7 +104,7 @@ function nested(numbers) {
 // ANSWER: O(n^2)
 
 // Q: What is the space complexity of this function?
-// ANSWER: O(n^2)
+// ANSWER: O(n)
 
 
 
